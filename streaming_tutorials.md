@@ -12,7 +12,7 @@ Streaming là quá trình truyền tải dữ liệu liên tục từ một ngu�
 5. **Giải mã (Decoding)**: Dữ liệu nén được giải mã trở lại định dạng gốc để phát lại. Thiết bị đích sử dụng các bộ giải mã (codec) tương ứng để thực hiện quá trình này.
 
 6. **Phát lại (Playback)**: Dữ liệu đã giải mã được phát lại trên thiết bị đích, cho phép người xem thưởng thức nội dung trực tiếp hoặc theo yêu cầu.
-![Nguyên lý hoạt động của Streaming](https://example.com/streaming_workflow.png)
+![Nguyên lý hoạt động của Streaming](https://svg.template.creately.com/gfxElevLKMe)
 
 Nhờ vào các bước trên, streaming cho phép truyền tải nội dung đa phương tiện một cách hiệu quả và tiện lợi, đáp ứng nhu cầu giải trí và thông tin của người dùng trên toàn thế giới.
 
